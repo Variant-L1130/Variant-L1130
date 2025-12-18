@@ -3,30 +3,30 @@
   #                          Hey there, I’m Atharv Shukla
 
 
-# 👨‍🎓 2 nd Year CSE Student | C/C++/Java Developer | Problem-Solving Enthusiast | Code Explorer
+# 2 nd Year CSE Student | C/C++/Java Developer | Problem-Solving Enthusiast | Code Explorer
 
 
 
-# 🚀 About Me
+#  About Me
 
 
-🎓 B.Tech CSE student at SRMIST, Delhi NCR — Currently in my 2nd year, and loving every challenge that comes my way!
+ B.Tech CSE student at SRMIST, Delhi NCR — Currently in my 2nd year, and loving every challenge that comes my way!
 
 
-📊 CGPA: 8.48 — Consistently striving for excellence in coding and academics.
+ CGPA: 8.48 — Consistently striving for excellence in coding and academics.
 
 
-💡 Passionate about programming in C, C++, and Java. I enjoy diving deep into data structures, algorithms, and building efficient software.
+ Passionate about programming in C, C++, and Java. I enjoy diving deep into data structures, algorithms, and building efficient software.
 
-🌱 Currently sharpening my skills in competitive programming, and exploring new ways to optimize code.
+ Currently sharpening my skills in competitive programming, and exploring new ways to optimize code.
 
-⚡ Code Fuel -
+ Code Fuel -
 When I'm not coding, I’m brewing coffee to fuel my journey towards sleek code and optimized algorithms.
 
 
-# 🔧 My Coding Arsenal
+# My Coding Arsenal
 
-🌐 Languages I Code In
+ Languages I Code In
 
 [![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 – The language that introduced me to the world of programming. From simple algorithms to complex system-level programming, C’s simplicity and power never 
@@ -37,7 +37,7 @@ fail to amaze me.
 [![Java](https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=java&logoColor=white)]()– My go-to for building robust, cross-platform applications. Java is my weapon of choice when it comes to object-oriented development and handling large-scale systems.
 
 
-# 🧰 My Dev Toolbox
+#  My Dev Toolbox
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]() 
 
@@ -52,7 +52,7 @@ fail to amaze me.
 
 
 
-# 📚 CS Fundamentals I’m Always Up For
+#  CS Fundamentals I’m Always Up For
 
 [![DSA](https://img.shields.io/badge/DSA-F7DF1E?style=for-the-badge&logo=algorithm&logoColor=black)]() – The key to solving any problem efficiently!
 
@@ -67,13 +67,13 @@ fail to amaze me.
 
 
 
-# 🚀 Projects & Open Source Contributions
+#  Projects & Open Source Contributions
 While I’m still building my portfolio, I enjoy diving into small projects and open-source contributions to hone my skills in C, C++, and Java.
 Check out my repositories for some of my fun challenges and solutions! 📂
 
 
 
-# 🎮 What I’m Currently Playing With
+#  What I’m Currently Playing With
 Competitive programming challenges
 Optimizing algorithms and learning new tricks
 Improving my knowledge of system-level programming with C/C++
