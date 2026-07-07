@@ -3,17 +3,17 @@
   #                          Hey there, I’m Atharv Shukla
 
 
-# 2 nd Year CSE Student | C/C++/Java Developer | Problem-Solving Enthusiast | Code Explorer
+# 3 rd Year CSE Student | C/C++/Java Developer | Problem-Solving Enthusiast | Code Explorer
 
 
 
 #  About Me
 
 
- B.Tech CSE student at SRMIST, Delhi NCR — Currently in my 2nd year, and loving every challenge that comes my way!
+ B.Tech CSE student at SRMIST, Delhi NCR — Currently in my 3 rd year, and loving every challenge that comes my way!
 
 
- CGPA: 8.48 — Consistently striving for excellence in coding and academics.
+ CGPA: 8.64 — Consistently striving for excellence in coding and academics.
 
 
  Passionate about programming in C, C++, and Java. I enjoy diving deep into data structures, algorithms, and building efficient software.
