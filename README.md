@@ -13,7 +13,7 @@
  B.Tech CSE student at SRMIST, Delhi NCR — Currently in my 3 rd year, and loving every challenge that comes my way!
 
 
- CGPA: 8.64 — Consistently striving for excellence in coding and academics.
+ CGPA: 8.65 — Consistently striving for excellence in coding and academics.
 
 
  Passionate about programming in C, C++, and Java. I enjoy diving deep into data structures, algorithms, and building efficient software.
